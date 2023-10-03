@@ -17,9 +17,6 @@ The challenge required the following:
 
 ## Screenshots 📷
 
-![Desktop preview](./screenshort/desktop-preview.png)
-![Mobile preview](./screenshort/mobile-preview.png)
-
 | Mobile                                            | Desktop                                            |
 | ------------------------------------------------- | -------------------------------------------------- |
 | ![](./screenshort/mobile-preview.png)            | ![](./screenshort/desktop-preview.png)              |
